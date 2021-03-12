@@ -3676,7 +3676,7 @@
 											"top": 79,
 											"width": 294,
 											"height": 13,
-											"text": "Classe"
+											"text": "Scuola"
 										},
 										{
 											"_type": "LabelView",
@@ -4856,7 +4856,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "Classe"
+					"name": "Scuola"
 				},
 				{
 					"_type": "UMLActor",
